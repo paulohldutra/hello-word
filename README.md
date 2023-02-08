@@ -4,5 +4,5 @@
 Para rodar na sua máquina, por favor digite:
 
 ```
-Instal mp
+Node app.js
 ```
